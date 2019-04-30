@@ -1,5 +1,5 @@
 {
-    "posts": [
+    "users": [
       { "id": 1, "name": "Vishwa", "username" : "vishwad", "email": "vishwa@gmail.com" },
       { "id": 2, "name": "Lakshmi", "username" : "lakshmiv", "email": "lakshmi@gmail.com"  },
       { "id": 3, "name": "Akshay", "username" : "akshayv", "email": "akshay@gmail.com"  }
